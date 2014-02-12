@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: Блог | Записки студента]]></title>
+  <link href="http://Meloman4eg.github.io/categories/blogh/atom.xml" rel="self"/>
+  <link href="http://Meloman4eg.github.io/"/>
+  <updated>2014-02-12T21:51:01+04:00</updated>
+  <id>http://Meloman4eg.github.io/</id>
+  <author>
+    <name><![CDATA[Pavel Dadykin]]></name>
+    <email><![CDATA[pavel.splean@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://Meloman4eg.github.io/hello-world/"/>
+    <updated>2014-01-25T20:13:32+04:00</updated>
+    <id>http://Meloman4eg.github.io/hello-world</id>
+    <content type="html"><![CDATA[<h2>Всем привет!</h2>
+
+<p>Решил что нужно завести блог на Octopress, ибо статика &ndash; это удобно!</p>
+
+<p>Раньше был блог на Wordpress, но этот движок уж больно громоздкий и неудобный.
+А вот писать на Octopress'e &ndash; одно удовольствие.</p>
+
+<!-- more -->
+
+
+<p></p>
+]]></content>
+  </entry>
+  
+</feed>
